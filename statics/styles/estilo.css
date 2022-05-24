@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(252, 251, 248);
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 0%;
+    font-size: 250%;
+    text-align: center;
+    width: 100%;
+    box-shadow: 4px 4px 4px rgb(138, 115, 3);
+}
+#contenedor-canva{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+#especificaciones{
+    display: flex; 
+    box-shadow: 4px 4px 4px rgb(138, 115, 3);
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+
+
